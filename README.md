@@ -5,10 +5,12 @@
 
 - 🌱 I’m currently learning... **MERN technology and Python - Data analysis & visualization**
 
+- 👨‍💻 All of my projects are available at.... [soon](soon)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jakub-bartosiewicz-665634224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakub-bartosiewicz-665634224/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21413279/jakub-bartosiewicz?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21413279/jakub-bartosiewicz?tab=profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21413279/jakub-bartosiewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21413279/jakub-bartosiewicz" height="30" width="40" /></a>
 <a href="https://discord.gg/Kubaa#4724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kubaa#4724" height="30" width="40" /></a>
 </p>
 
