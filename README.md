@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jakub</h1>
 <h3 align="center">Future Software Developer :)</h3>
 
-- 🔭 I’m currently working on... **Full-Stack App - NextJS13, ReactJS, TypeScript, TailwindCSS**
+- 🔭 I’m currently working on... **Full-Stack App - NextJS13, NodeJS, ReactJS, TypeScript, TailwindCSS**
 
 - 🌱 I’m currently learning... **MERN technology and Python - Data analysis & visualization**
 
